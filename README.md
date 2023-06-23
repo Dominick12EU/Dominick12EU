@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dominick12EU&label=Profile%20views&color=6e18fb&style=flat" alt="Dominick12EU" /> </p>
+
 I’m an Italian programmer 
 
 - 🔭 I’m currently working at [@PeterNetwork](https://github.com/PeterNetwork-MC-Server).
