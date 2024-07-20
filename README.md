@@ -4,7 +4,7 @@
 
 I’m an Italian programmer 
 
-- 🔭 I’m currently working at [@CoralMC](https://github.com/CoralMC-It).
+- 🔭 I’m currently working at [@zKraft](https://github.com/zKraft-Network).
 
 ### My activity
 [![Dominick12 Github stats](https://github-readme-stats.vercel.app/api?username=Dominick12EU&theme=radical)](https://github-readme-stats.vercel.app/api?username=Dominick12EUf&theme=radical)
