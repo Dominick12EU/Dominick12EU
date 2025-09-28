@@ -101,8 +101,8 @@
 ## 📊 GitHub Stats (Dark Mode)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominick12eu&show_icons=true&locale=en&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dominick12eu&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-rust-three-16.vercel.app/api?username=dominick12eu&show_icons=true&locale=en&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-rust-three-16.vercel.app/api/top-langs?username=dominick12eu&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
