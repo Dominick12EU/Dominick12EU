@@ -10,7 +10,9 @@
 ## 👨‍💻 About Me  
 - 🇮🇹 I'm an **Italian developer** with solid experience in **Java**  
 - 📚 At **16 years old**, I attended a **Master’s course in Java 11**, obtaining an official qualification and successfully passing an **Oracle certification exam**  
-- 💡 Since then, I’ve been cultivating my passion for coding, developing tools and solutions that help people bring their projects to life  
+- 💡 Since then, I’ve been cultivating my passion for coding, developing tools and solutions that help people bring their projects to life
+- 🖥️ During the week, I work full-time in a software house — coding all day long.  
+  💤 Even though I come home tired on the weekend, I still like to devote time to my personal projects :) 
 
 ---
 
