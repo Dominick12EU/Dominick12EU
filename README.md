@@ -19,7 +19,9 @@
 ## 🌱 Currently Learning  
 - **React**  
 - **React Native**  
-- **Rust**  
+- **Rust**
+- **Vite.js**  
+- **Tauri**  
 
 ---
 
